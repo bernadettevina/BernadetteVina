@@ -1,0 +1,95 @@
+<?xml version = "1.0" encoding ="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="DataXML.xslt"?>
+<mydata>
+  <item id="1">
+    <NIM>18211001</NIM>
+    <nama>Stella</nama>
+    <asal_sekolah>SMAK 1 BPK Penabur</asal_sekolah>
+	<Kota>Bandung</Kota>
+  </item>
+  <item id="2">
+    <NIM>18211002</NIM>
+    <nama>Vivi</nama>
+    <asal_sekolah>Santa Ursula</asal_sekolah>
+	<Kota>Jakarta</Kota>
+  </item>
+  <item id="3">
+    <NIM>18211003</NIM>
+    <nama>Dinda</nama>
+    <asal_sekolah>SMAN 8</asal_sekolah>
+	<Kota>Jakarta</Kota>
+  </item>
+ <item id="4">
+	<NIM>18211004</NIM>
+	<nama>Reni</nama>
+	<asal_sekolah>Al-Azhar</asal_sekolah>
+	<Kota>Bekasi</Kota>
+ </item>
+ <item id="5">
+	<NIM>18211005</NIM>
+	<nama>Olivia</nama>
+	<asal_sekolah>Santa Ursula</asal_sekolah>
+	<Kota>Jakarta</Kota>
+ </item>
+ <item id="6">
+	<NIM>18211006</NIM>
+	<nama>Fania</nama>
+	<asal_sekolah>SMAN 3</asal_sekolah>
+	<Kota>Bandung</Kota>
+ </item>
+ <item id="7">
+	<NIM>18211007</NIM>
+	<nama>Kamila</nama>
+	<asal_sekolah>SMAN 78</asal_sekolah>
+	<Kota>Jakarta</Kota>
+ </item>
+ <item id="8">
+	<NIM>18211008</NIM>
+	<nama>Ardian</nama>
+	<asal_sekolah>Santa Maria</asal_sekolah>
+	<Kota>Bandung</Kota>
+ </item>
+ <item id="9">
+	<NIM>18211009</NIM>
+	<nama>Anthony</nama>
+	<asal_sekolah>Santo Aloysius</asal_sekolah>
+	<Kota>Bandung</Kota>
+ </item>
+ <item id="10">
+	<NIM>18211010</NIM>
+	<nama>Hendy</nama>
+	<asal_sekolah>Kolose Kanisius</asal_sekolah>
+	<Kota>Jakarta</Kota>
+ </item>
+ <item id="11">
+	<NIM>18211011</NIM>
+	<nama>William</nama>
+	<asal_sekolah>Santo Yusuf</asal_sekolah>
+	<Kota>Malang</Kota>
+ </item>
+ <item id="12">
+	<NIM>18211012</NIM>
+	<nama>Danny</nama>
+	<asal_sekolah>Sutomo</asal_sekolah>
+	<Kota>Medan</Kota>
+ </item>
+ <item id="13">
+	<NIM>18211013</NIM>
+	<nama>Gunawan</nama>
+	<asal_sekolah>Santo Aloysius</asal_sekolah>
+	<Kota>Bandung</Kota>
+ </item>
+ <item id="14">
+	<NIM>18211014</NIM>
+	<nama>Stefan</nama>
+	<asal_sekolah>SMAK 1 BPK Penabur</asal_sekolah>
+	<Kota>Bandung</Kota>
+ </item>
+ <item id="15">
+	<NIM>18211015</NIM>
+	<nama>Bintang</nama>
+	<asal_sekolah>Taruna Nusantara</asal_sekolah>
+	<Kota>Magelang</Kota>
+ </item>
+  
+</mydata>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="output2.xslt"?>
+<mydata>
+  <row>
+    <NIM>18211001</NIM>
+    <Nama>Stella Kurniawan</Nama>
+    <email>18211001@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211002</NIM>
+    <Nama>Bernadette Vina</Nama>
+    <email>18211002@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211003</NIM>
+    <Nama>Dinda Tisi Calista</Nama>
+    <email>18211003@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211004</NIM>
+    <Nama>Khairani Ummah</Nama>
+    <email>18211004@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211005</NIM>
+    <Nama>Olivia</Nama>
+    <email>18211005@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211006</NIM>
+    <Nama>Fania Anindita Rizka</Nama>
+    <email>18211006@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211007</NIM>
+    <Nama>Kamila Auliarahma</Nama>
+    <email>18211007@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211008</NIM>
+    <Nama>Ardian Indra Gunawan</Nama>
+    <email>18211008@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211009</NIM>
+    <Nama>Anthony Loekita</Nama>
+    <email>18211009@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211010</NIM>
+    <Nama>Christian Hendy</Nama>
+    <email>18211010@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211011</NIM>
+    <Nama>William Gumarus</Nama>
+    <email>18211011@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211012</NIM>
+    <Nama>Aditya Pradita</Nama>
+    <email>18211012@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211013</NIM>
+    <Nama>Divo Afifartama</Nama>
+    <email>18211013@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211014</NIM>
+    <Nama>Mekaputra Yudahandika</Nama>
+    <email>18211014@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211015</NIM>
+    <Nama>Bintang Adinandra</Nama>
+    <email>18211015@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211016</NIM>
+    <Nama>Yogi Agnia</Nama>
+    <email>18211016@std.stei.itb.ac.id</email>
+  </row>
+  <row>
+    <NIM>18211017</NIM>
+    <Nama>Rakaputra Paputungan</Nama>
+    <email>18211017@std.stei.itb.ac.id</email>
+  </row>
+</mydata>
