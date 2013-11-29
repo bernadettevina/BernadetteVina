@@ -48,73 +48,12 @@ foreach($data as $node)
     if(++$n % 3 == 0) { echo '</tr>'; }
 }
 echo( "</tr></table>");*/
-	/*display ("http://localhost/BernadetteVina/csv.php","row");
-	display ("http://localhost/BernadetteVina/csv.php","row");
-	display ("http://localhost/BernadetteVina/xml.php","item");
-	display ("http://localhost/BernadetteVina/sql.php","mahasiswa");
-	display ("http://localhost/18211010-18211035/progin.xml","mahasiswa");
-	display ("http://localhost/18211037/RestWebService/data/shortlist.xml","item");
-	display ("http://localhost/BintangAdinandra/menu.xml","mymenu");
-	display ("http://localhost/ConvertXML/database_collection/xmldb.xml" ,"pasien");
-	display ("http://localhost/II3160-18211003-18211050/datasql.xml", "row");
-	display ("http://localhost/II3160-18211003-18211050/Menu.xml", "Nasi");
-	display ("http://localhost/II3160-18211003-18211050/output.xml", "row");
-	display ("http://localhost/II3160--Pemrograman-Integratif-/DaftarIdol.xml", "Idol");
-	display ("http://localhost/II3160-Tugas1-Tugas2/tab2.xml", "mhs");
-	display ("http://localhost/II3160-Tugas1-Tugas2/csvoutput.xml", "kantor");
-	display ("http://localhost/IPT-Assignments/data1.xml", "Anggota");
-	display ("http://localhost/IPT-Assignments/data2.xml", "data_pesanan");
-	display ("http://localhost/IPT-Assignments/data3.xml", "Baris");
-	display ("http://localhost/Pemrograman_integratif/output.xml", "mahasiswa");
-	display ("http://localhost/Pemrograman-Intergratif/dbxml.xml", "genre");
-	display ("http://localhost/Pemrograman-Intergratif/myData.xml", "ticket");
-	display ("http://localhost/progin/contoh.xml", "country");
-	display ("http://localhost/progin-raosanfady/data.xml", "data");
-	display ("http://localhost/Progint/data/sqltoxml.xml", "buku");
-	display ("http://localhost/Protif/Protif/converter/mencari/buku.xml", "home");
-	display ("http://localhost/Protif/Protif/converter/mencari/daftarbuku.xml", "buku");
-	display ("http://localhost/Protif/Protif/database/rumah.xml", "home");
-	display ("http://localhost/testPHP2/test.xml", "tabel_1");
-	display ("http://localhost/tugas-2-pemrograman-integratif/data3.xml", "mahasiswa");
-	display ("http://localhost/web-service/csvtoxml.xml", "siswa");
-	display ("http://localhost/web-service/datasiswa.xml", "siswa");
-	display ("http://localhost/web-service/sqltoxml.xml", "siswa");
-	display ("http://localhost/Workspace/datasql.xml", "row");
-	display ("http://localhost/Workspace/Menu.xml", "Nasi");
-	display ("http://localhost/Workspace/output.xml", "row");*/
+	display ("http://localhost/portal/BernadetteVina/csv.php","row");
+	display ("http://localhost/portal/BernadetteVina/csv.php","row");
+	display ("http://localhost/portal/BernadetteVina/xml.php","item");
+	display ("http://localhost/portal/BernadetteVina/sql.php","mahasiswa");
+	display ("http://sti-itb.org/tugas-2-pemrograman-integratif/tugas2.php?db=data1", "data");
+	display ("http://sti-itb.org/progin-raosanfady/show.php/?id=all","data");
 	
-	display ("http://sti-itb.org/BernadetteVina/csv.php","row");
-	display ("http://sti-itb.org/BernadetteVina/csv.php","row");
-	display ("http://sti-itb.org/BernadetteVina/xml.php","item");
-	display ("http://sti-itb.org/BernadetteVina/myxmlfile.xml","mahasiswa");
-	display ("http://sti-itb.org/18211010-18211035/progin.xml","mahasiswa");
-	display ("http://sti-itb.org/18211037/RestWebService/data/shortlist.xml","item");
-	display ("http://sti-itb.org/BintangAdinandra/menu.xml","mymenu");
-	display ("http://sti-itb.org/ConvertXML/database_collection/xmldb.xml" ,"pasien");
-	display ("http://sti-itb.org/II3160-18211003-18211050/datasql.xml", "row");
-	display ("http://sti-itb.org/II3160-18211003-18211050/Menu.xml", "Nasi");
-	display ("http://sti-itb.org/II3160-18211003-18211050/output.xml", "row");
-	display ("http://sti-itb.org/II3160--Pemrograman-Integratif-/DaftarIdol.xml", "Idol");
-	display ("http://sti-itb.org/II3160-Tugas1-Tugas2/tab2.xml", "mhs");
-	display ("http://sti-itb.org/II3160-Tugas1-Tugas2/csvoutput.xml", "kantor");
-	display ("http://sti-itb.org/IPT-Assignments/data1.xml", "Anggota");
-	display ("http://sti-itb.org/IPT-Assignments/data2.xml", "data_pesanan");
-	display ("http://sti-itb.org/IPT-Assignments/data3.xml", "Baris");
-	display ("http://sti-itb.org/Pemrograman_integratif/output.xml", "mahasiswa");
-	display ("http://sti-itb.org/Pemrograman-Intergratif/dbxml.xml", "genre");
-	display ("http://sti-itb.org/Pemrograman-Intergratif/myData.xml", "ticket");
-	display ("http://sti-itb.org/progin/contoh.xml", "country");
-	display ("http://sti-itb.org/progin-raosanfady/data.xml", "data");
-	display ("http://sti-itb.org/Progint/data/sqltoxml.xml", "buku");
-	display ("http://sti-itb.org/Protif/Protif/converter/mencari/buku.xml", "home");
-	display ("http://sti-itb.org/Protif/Protif/converter/mencari/daftarbuku.xml", "buku");
-	display ("http://sti-itb.org/Protif/Protif/database/rumah.xml", "home");
-	display ("http://sti-itb.org/testPHP2/test.xml", "tabel_1");
-	display ("http://sti-itb.org/tugas-2-pemrograman-integratif/data3.xml", "mahasiswa");
-	display ("http://sti-itb.org/web-service/csvtoxml.xml", "siswa");
-	display ("http://sti-itb.org/web-service/datasiswa.xml", "siswa");
-	display ("http://sti-itb.org/web-service/sqltoxml.xml", "siswa");
-	display ("http://sti-itb.org/Workspace/datasql.xml", "row");
-	display ("http://sti-itb.org/Workspace/Menu.xml", "Nasi");
-	display ("http://sti-itb.org/Workspace/output.xml", "row");
+	
 ?>
