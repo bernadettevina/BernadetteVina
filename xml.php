@@ -1,6 +1,6 @@
 <?php
 header("Content-Type: text/xml");
-echo file_get_contents("http://localhost/webservice/DataXML.xml");
+echo file_get_contents("DataXML.xml");
 
 //Bernadette Vina - 18211019
 //Stella Kurniawan - 18211046
