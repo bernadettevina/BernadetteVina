@@ -86,7 +86,7 @@ echo( "</tr></table>");*/
 	display ("http://sti-itb.org/BernadetteVina/csv.php","row");
 	display ("http://sti-itb.org/BernadetteVina/csv.php","row");
 	display ("http://sti-itb.org/BernadetteVina/xml.php","item");
-	display ("http://sti-itb.org/BernadetteVina/sql.php","mahasiswa");
+	display ("http://sti-itb.org/BernadetteVina/myxmlfile.xml","mahasiswa");
 	display ("http://sti-itb.org/18211010-18211035/progin.xml","mahasiswa");
 	display ("http://sti-itb.org/18211037/RestWebService/data/shortlist.xml","item");
 	display ("http://sti-itb.org/BintangAdinandra/menu.xml","mymenu");
