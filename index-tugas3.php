@@ -48,10 +48,10 @@ foreach($data as $node)
     if(++$n % 3 == 0) { echo '</tr>'; }
 }
 echo( "</tr></table>");*/
-	display ("http://localhost/portal/BernadetteVina/csv.php","row");
-	display ("http://localhost/portal/BernadetteVina/csv.php","row");
-	display ("http://localhost/portal/BernadetteVina/xml.php","item");
-	display ("http://localhost/portal/BernadetteVina/sql.php","mahasiswa");
+	display ("http://sti-itb.org/BernadetteVina/csv.php","row");
+	display ("http://sti-itb.org/BernadetteVina/csv.php","row");
+	display ("http://sti-itb.org/BernadetteVina/xml.php","item");
+	display ("http://sti-itb.org/BernadetteVina/sql.php","mahasiswa");
 	display ("http://sti-itb.org/tugas-2-pemrograman-integratif/tugas2.php?db=data1", "data");
 	display ("http://sti-itb.org/progin-raosanfady/show.php/?id=all","data");
 	
