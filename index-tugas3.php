@@ -6,17 +6,18 @@ echo '<p></p>';
 $x=0;
 function display ($uri,$tag)
 {
-	global $x;
+	/*global $x;
 	if($x!=0){
 		echo "Data $uri";
 		
 	}
 	else {
 		$x++;
-	}
+	}*/
     $xml = file_get_contents($uri);
 	//$xml = simplexml_load_file($uri);
-	$element = new SimpleXMLElement($xml);?>
+	$element = new SimpleXMLElement($xml);
+	?>
 	
 	<table border="1"><br>
         <caption><b> <?php echo " Tabel " . $element -> getName() . "<br>"; ?> </b></caption>
@@ -49,11 +50,10 @@ foreach($data as $node)
 }
 echo( "</tr></table>");*/
 	display ("http://www.sti-itb.org/BernadetteVina/csv.php","row");
-	display ("http://www.sti-itb.org/BernadetteVina/csv.php","row");
+	//display ("http://www.sti-itb.org/BernadetteVina/csv.php","row");
 	display ("http://www.sti-itb.org/BernadetteVina/xml.php","item");
-	display ("http://www.sti-itb.org/BernadetteVina/sql.php","mahasiswa");
-	display ("http://www.sti-itb.org/tugas-2-pemrograman-integratif/tugas2.php?db=data1", "data");
-	display ("http://www.sti-itb.org/progin-raosanfady/show.php/?id=all","data");
-	
+	display ("http://sti-itb.org/tugas-2-pemrograman-integratif/tugas2.php?db=data1", "data");
+	display ("http://sti-itb.org/progin-raosanfady/show.php/?id=all","data");
+	display ("http://sti-itb.org/18211014-dan-18211029/index2.php?state=state1&submit2=Submit","data");
 	
 ?>
